@@ -1,0 +1,4 @@
+/moodle/config.php
+/moodledata/
+/dbdata/
+.env
